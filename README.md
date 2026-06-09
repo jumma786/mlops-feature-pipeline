@@ -6,7 +6,7 @@
 ![Sklearn](https://img.shields.io/badge/Scikit--learn-1.5-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-> **Part of the MLOps Portfolio Series** — Project 3 of 10  
+> **Part of the [MLOps Portfolio Series](https://github.com/jumma786/mlops-portfolio)** — Project 3 of 10  
 > Feature engineering pipeline packaged as versioned sklearn transformers, logged as MLflow artifacts, and decoupled from the model — either can be retrained independently.
 
 ---
